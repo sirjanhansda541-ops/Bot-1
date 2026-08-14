@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "",
+        "Subscribe to ItsNotNexusYT!",
+        ""
       ]
     },
     "chat-log": true,
